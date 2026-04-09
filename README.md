@@ -118,6 +118,6 @@ focus:
 
 ### 💭 Dev Quote
 
-*"Code never lies, comments sometimes do."* 🚀
+*"Code không bao giờ nói dối, chỉ có dev chưa debug đủ lâu."* 🚀
 
 </div>
