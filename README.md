@@ -74,9 +74,9 @@ focus:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" height="150"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=quangdev1608&theme=tokyonight&hide_border=true&background=0d1117" height="150"/>
 
 </div>
 
