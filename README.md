@@ -53,10 +53,10 @@
 
 ---
 
-### 📊 GitHub Activities
+### 📈 GitHub Activities
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quangdev1608&show_icons=true&theme=neon&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff" alt="QuangDev Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangdev1608&layout=compact&theme=neon&hide_border=true&title_color=00FF41&text_color=ffffff" alt="Top Langs" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quangdev1608&show_icons=true&theme=neon&hide_border=false&title_color=00FF41&icon_color=00FF41&text_color=ffffff" alt="QuangDev Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangdev1608&layout=compact&theme=neon&hide_border=false&title_color=00FF41&text_color=ffffff" alt="Top Langs" height="170px" />
 </div>
 
 ---
