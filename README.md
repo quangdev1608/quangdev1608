@@ -86,17 +86,17 @@ focus:
 
 <div align="center">
 
-<!-- <a href="https://quang.dev">
+<!-- <a href="https://quangdev.run.place">
   <img src="https://img.shields.io/badge/Website-00FF9C?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-</a>
+</a> -->
 
-<a href="mailto:contact@quang.dev">
+<a href="quangdev2k4@gmail.com">
   <img src="https://img.shields.io/badge/Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
-<a href="#">
+<!-- <a href="#">
   <img src="https://img.shields.io/badge/Discord-00FF9C?style=for-the-badge&logo=discord&logoColor=black"/>
-</a> -->
+</a>  -->
 
 </div>
 
