@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Full-stack+Developer;FiveM+Server+Architect;UI%2FUX+Lover;Founder+of+CodePulse;Automation+Enthusiast" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=QUANG.DEV&fontSize=60&color=0:000000,100:00FF9C&stroke=00FF9C&fontColor=00FF9C&animation=twinkling&fontAlignY=45"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:0F2027&height=120&section=header"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Full-stack+Developer;FiveM+Server+Architect;Automation+Specialist;Founder+of+CodePulse" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-```yaml
+```yaml id="devcfg01"
 name: Quang.dev
 role: Full-stack Developer
 specialty: FiveM & Automation Systems
@@ -31,15 +31,19 @@ focus:
 
 ### 🧩 Languages
 
-<img src="https://skillicons.dev/icons?i=lua,js,python" />
+<img src="https://skillicons.dev/icons?i=lua,js,python,cs,cpp" />
 
 ### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=react,vue,tailwind" />
+<br/>
+<img src="https://img.shields.io/badge/NUI-FiveM-00FF9C?style=for-the-badge"/>
 
 ### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
+<br/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 
 ### 🎮 Game Dev & Tools
 
@@ -98,9 +102,19 @@ focus:
 
 ---
 
+## 🐍 Contribution Snake
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:00FF9C&height=120&section=footer"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a0f,100:000000&height=120&section=footer"/>
 
 ### 💭 Dev Quote
 
