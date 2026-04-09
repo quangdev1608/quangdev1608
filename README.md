@@ -90,7 +90,7 @@ focus:
   <img src="https://img.shields.io/badge/Website-00FF9C?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a> -->
 
-<a href="quangdev2k4@gmail.com">
+<a href="mailto:quangdev2k4@gmail.com">
   <img src="https://img.shields.io/badge/Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
