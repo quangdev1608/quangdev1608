@@ -1,61 +1,65 @@
-# 🚀 Chào mừng đến với không gian của QUANGDEV!
+# 👨‍💻 QUANG.DEV | Full-stack Developer & FiveM Specialist
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00FF41&height=200&section=header&text=QUANG.DEV&fontSize=90&animation=fadeIn&fontColor=0D0D0D" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Software+Developer;FiveM+Server+Architect;FiveM+Scripting+Expert;Founder+of+CodePulse" alt="Typing SVG" />
 </div>
-
-### 💫 Về tôi
-Tôi là một **Software Developer** và **FiveM Server Architect**. Với niềm đam mê tối ưu hóa code và xây dựng các hệ thống game sáng tạo, tôi tập trung vào việc tạo ra các trải nghiệm người dùng mượt mà thông qua script và giao diện hiện đại.
-
-- 🛠️ Hiện đang phát triển: **VIRGO CITY** (FiveM Server) & **CodePulse** (Script Store).
-- 🐧 Hệ điều hành ưu tiên: **Windows** (Customized for Dev).
-- 🤖 Sở thích: Tự động hóa quy trình bằng AI, Prompt Engineering và xây dựng Discord Bots.
-- 🎯 Mục tiêu: Cung cấp các giải pháp FiveM chất lượng cao nhất cho cộng đồng.
 
 ---
 
-### 🛠️ Kỹ năng & Công cụ
+### 🟢 Overview
+Tôi là **Quang**, một lập trình viên chuyên về mảng **Game Development (FiveM)** và **Web Tools**. Với tư duy tối ưu hóa và tự động hóa, tôi xây dựng các hệ thống backend mạnh mẽ và giao diện NUI hiện đại cho GTA V.
 
-| Lĩnh vực | Công nghệ |
+- 🏙️ **Main Project:** Lead Developer tại **VIRGO CITY**.
+- 🛠️ **Service:** Cung cấp script và giải pháp FiveM tại **CodePulse**.
+- ⚙️ **Environment:** `Windows` | `Cursor AI` | `Scoop` | `Rclone`.
+- 💬 **Focus:** Lua, Node.js, Python & Prompt Engineering.
+
+---
+
+### 🚀 Tech Stack
+
+| Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | `Lua`, `JavaScript (Node.js)`, `Python`, `HTML/CSS` |
-| **Frameworks** | `QB-Core`, `ESX`, `Express.js`, `Discord.js v14` |
-| **Tools** | `Cursor`, `VS Code`, `Premake5`, `Rclone`, `Scoop` |
-| **Database** | `MySQL/MariaDB`, `JSON Storage` |
-| **UI/UX** | `NUI (React/Vue)`, `Tailwind CSS`, `Dark Theme Aesthetics` |
+| **Languages** | ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) |
+| **FiveM** | ![QB-Core](https://img.shields.io/badge/Framework-QBCore-green?style=for-the-badge) ![ESX](https://img.shields.io/badge/Framework-ESX-blue?style=for-the-badge) |
+| **Systems** | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Discord.js](https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white) |
 
 ---
 
-### 📊 Thống kê GitHub
+### 💻 Current Projects
+
+- **[CodePulse.vn]**: Nền tảng phân phối FiveM Script chất lượng cao. Tích hợp thanh toán tự động và bàn giao qua Discord Bot.
+- **[Virgo City]**: Server Roleplay với hệ thống Anticheat tùy chỉnh và tối ưu hóa hiệu năng cao.
+- **[Auto-Backup Tool]**: Script Python/Rclone hỗ trợ backup dữ liệu server FiveM lên Google Drive tự động.
+
+---
+
+### 📈 GitHub Activities
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quangdev1608&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangdev1608&layout=compact&theme=tokyonight&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quangdev1608&show_icons=true&theme=neon&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=ffffff" alt="QuangDev Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangdev1608&layout=compact&theme=neon&hide_border=true&title_color=00FF41&text_color=ffffff" alt="Top Langs" height="170px" />
 </div>
 
 ---
 
-### 📂 Dự án nổi bật
-* **[VIRGO CITY]** - Dự án Server GTA V Roleplay với hệ thống script tùy biến độc quyền.
-* **[CodePulse]** - Nền tảng cung cấp FiveM scripts chất lượng cao, tích hợp Dashboard & Discord Bot.
-* **[Automated Shop System]** - Hệ thống quản lý bán hàng tự động qua Discord và Web Dashboard.
-
----
-
-### 🤝 Kết nối với tôi
-<p align="left">
-  <a href="https://quang.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-quang.dev-00FF41?style=for-the-badge&logo=google-chrome&logoColor=black" />
+### 📬 Contact & Connect
+<div align="left">
+  <a href="https://quang.dev">
+    <img src="https://img.shields.io/badge/Personal_Site-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF41" />
   </a>
   <a href="mailto:contact@quang.dev">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-00FF41?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00FF41" />
   </a>
-</p>
+</div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=quangdev1608&color=00FF41&style=flat-square&label=PROFILE+VIEWS" alt="quangdev1608" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/quangdev1608/quangdev1608/main/footer.png" onerror="this.style.display='none'" />
+  <br>
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
