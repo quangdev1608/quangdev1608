@@ -62,7 +62,7 @@ focus:
 
 | Project             | Description                                                  | Tech                |
 | ------------------- | ------------------------------------------------------------ | ------------------- |
-| 🔥 **CodePulse.vn** | Nền tảng phân phối FiveM Scripts với dashboard chuyên nghiệp | React, Vue, API     |
+| 🔥 **CodePulse**    | Nền tảng phân phối FiveM Scripts với dashboard chuyên nghiệp | React, Vue, API     |
 | 🌆 **Virgo City**   | Server Roleplay tối ưu với UI hiện đại (NUI)                 | React, Lua          |
 | 🤖 **Auto-Tools**   | Hệ thống backup & automation server                          | Python, Discord Bot |
 
@@ -86,7 +86,7 @@ focus:
 
 <div align="center">
 
-<a href="https://quang.dev">
+<!-- <a href="https://quang.dev">
   <img src="https://img.shields.io/badge/Website-00FF9C?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
@@ -96,7 +96,7 @@ focus:
 
 <a href="#">
   <img src="https://img.shields.io/badge/Discord-00FF9C?style=for-the-badge&logo=discord&logoColor=black"/>
-</a>
+</a> -->
 
 </div>
 
