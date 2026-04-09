@@ -51,13 +51,7 @@
 - **[Virgo City]**: Hệ thống server Roleplay tối ưu, sử dụng các UI (NUI) hiện đại được build trên nền tảng **React**.
 - **[Auto-Tools]**: Hệ thống tự động hóa backup và quản lý server qua Python & Discord Bot.
 
----
 
-### 📈 GitHub Activities
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quangdev1608&show_icons=true&theme=neon&hide_border=false&title_color=00FF41&icon_color=00FF41&text_color=ffffff" alt="QuangDev Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangdev1608&layout=compact&theme=neon&hide_border=false&title_color=00FF41&text_color=ffffff" alt="Top Langs" height="170px" />
-</div>
 
 ---
 
